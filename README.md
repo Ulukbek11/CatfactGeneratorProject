@@ -32,7 +32,7 @@ Cat Facts Generator is a web application that shows interesting facts about cats
 ## 🚀 Getting Started
 
 ### Option 1: Online
-Simply visit: [https://ulukbek11.github.io/CatfactGeneratorProject/](https://yourusername.github.io/cat-facts-generator/)
+Simply visit: [https://ulukbek11.github.io/CatfactGeneratorProject/](https://ulukbek11.github.io/CatfactGeneratorProject/)
 
 ### Option 2: Run Locally
 
