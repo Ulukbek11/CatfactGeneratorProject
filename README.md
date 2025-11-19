@@ -2,7 +2,7 @@
 
 A simple web application that displays random cat facts.
 
-**[🔗 Live Demo](https://Ulukbek11.github.io/CatfactGeneratorProject/)**
+**[🔗 Live Demo](https://ulukbek11.github.io/CatfactGeneratorProject/)**
 
 ![Project Screenshot](imgs/catfactphoto.png)
 
@@ -32,7 +32,7 @@ Cat Facts Generator is a web application that shows interesting facts about cats
 ## 🚀 Getting Started
 
 ### Option 1: Online
-Simply visit: [https://Ulukbek11.github.io/CatfactGeneratorProject/](https://yourusername.github.io/cat-facts-generator/)
+Simply visit: [https://ulukbek11.github.io/CatfactGeneratorProject/](https://yourusername.github.io/cat-facts-generator/)
 
 ### Option 2: Run Locally
 
