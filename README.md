@@ -78,6 +78,7 @@ cat-facts-generator/
 ├── README.md           # Documentation
 └── images/             # Project screenshots
     └── catfactphoto.png
+    └── icon.png
 ```
 
 ## 💡 How It Works
