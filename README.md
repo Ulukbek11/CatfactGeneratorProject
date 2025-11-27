@@ -54,7 +54,7 @@ cd cat-facts-generator
 
 ## 📸 Figma design
 
-👉 [Открыть дизайн в Figma](https://www.figma.com/community/file/1572995968586398322/catfactgeneratordesign)
+👉 [Открыть дизайн в Figma](https://www.figma.com/community/file/1575937651036531998/catfactgeneratorwebproject)
 
 
 ## 🌐 API
